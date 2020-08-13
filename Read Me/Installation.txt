@@ -1,0 +1,11 @@
+		
+			***Installation***
+
+	1.Import the "networking.sql" from the "DataBase Tables" folder to your phpMyAdmin.
+	2.Turn on your MySQL service from XAMPP.
+	3.Open the Client and Server projects by using "NetBeans" or "Eclips".
+	4.Run the "Server.java" in "Server->Source Pakages->server". 
+	5.Run the "Client.java" in "Client->Source Pakages->client". 
+	6.Read the Read me file for more instructions.
+
+			******************

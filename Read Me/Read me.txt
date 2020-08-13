@@ -1,0 +1,17 @@
+
+			***How to use the application***
+
+
+	1.you can start the service by typing "Hello" 
+
+	2.Then follow Travel Assistant’s instructions 
+
+	3.You can search "distance" or "path" between two points from below cities  
+
+ 	*Anuradhapura	*Colombo	*Habarana	*Mirissa	*Tangalle
+	*Arugam Bay	*Dambulla	*Hikkaduwa	*Negombo	*Thissamaharama
+	*Badulla	*Ella		*Jaffna		*Nuwara Eliya	*Trincomalee
+	*Batticaloa	*Galle		*Kandy		*Polonnaruwa
+                            
+			
+			***Thank you!***
